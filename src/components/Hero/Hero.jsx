@@ -8,7 +8,7 @@ import githubIconDark from "../../assets/icons8-github.svg";
 import githubIconLight from "../../assets/icons8-github-light.svg";
 import linkedinDark from "../../assets/icons8-linkedin.svg";
 import linkedinLight from "../../assets/icons8-linkedin-light.svg";
-import CV from "../../assets/Labastida-Vince-Andrei-JSD.pdf";
+import CV from "../../assets/LABASTIDA_VINCE_FERD.pdf";
 import { useTheme } from "../../context/ThemeContext";
 
 function Hero() {
